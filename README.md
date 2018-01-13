@@ -143,4 +143,4 @@ choices_im = image.crop((75, 535, 990, 1200))
 
 Q群:592332973或扫下面二维码.
 
-
+转大神~:https://github.com/Skyexu/TopSup
