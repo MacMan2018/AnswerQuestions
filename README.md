@@ -134,6 +134,7 @@ python3 GetQuestionTessAndroid.py
 question_im = image.crop((50, 350, 1000, 560)) # huawei P10
 
 choices_im = image.crop((75, 535, 990, 1200))
+![](https://github.com/MacMan/AnswerQuestions/raw/master/resources/WX20180113-163457@2x.png)  2018
 
 
 3.加群闲聊,一起答题,毕竟机器是没有灵魂的,还是需要人来操作~
