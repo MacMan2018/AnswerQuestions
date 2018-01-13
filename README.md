@@ -37,6 +37,7 @@ brew cask install android-platform-tools
 b.
 
 安装完成后,terminal终端运行 adb devices,成功如下图:
+![](https://github.com/MacMan2018/AnswerQuestions/raw/master/resources/image.png)
 
 
 
@@ -134,10 +135,11 @@ python3 GetQuestionTessAndroid.py
 question_im = image.crop((50, 350, 1000, 560)) # huawei P10
 
 choices_im = image.crop((75, 535, 990, 1200))
-![](https://github.com/MacMan2018/AnswerQuestions/raw/master/resources/WX20180113-163457@2x.png)  2018
+![](https://github.com/MacMan2018/AnswerQuestions/raw/master/resources/WX20180113-163457@2x.png)
 
 
 3.加群闲聊,一起答题,毕竟机器是没有灵魂的,还是需要人来操作~
+![](https://github.com/MacMan2018/AnswerQuestions/raw/master/resources/WechatIMG90.jpeg)
 
 Q群:592332973或扫下面二维码.
 
